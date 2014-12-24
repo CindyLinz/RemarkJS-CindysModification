@@ -76,7 +76,7 @@ Now we use Cindy's modification this way:
             ...
         </textarea>
         <script src="https://raw.githubusercontent.com/gnab/remark/v0.9.1/out/remark.min.js"></script>
-        <script src="https://raw.githubusercontent.com/CindyLinz/RemarkJS-CindysModification/v0.1/out/remark.min.js"></script>
+        <script src="https://raw.githubusercontent.com/CindyLinz/RemarkJS-CindysModification/v0.1/out/remark-cindy.min.js" charset="utf8"></script>
         <script>
             remark_cindy.create(
                 {... some options for original remark.js ...},
